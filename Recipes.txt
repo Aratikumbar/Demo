@@ -3,3 +3,8 @@ recipes list
 keer
 panipuri
 PavBhaji
+beans
+palak
+
+thanks
+Final 
